@@ -17,7 +17,7 @@ instructor: ["Elysia Chou", "Mark Ciechanowski", "Huda Hassoun"] # boxed, comma-
 helper: ["Gregory Johnson", "Natasha Vernooij"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["samarti@umich.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2025-03-05-UMich  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-googleform: "https://forms.gle/a6k6sM8U22S6hPkc8" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+googleform: "https://forms.gle/1CmRvU4dmPS4sJyPA" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 material: "R for Plotting, The Unix Shell, Intro to git & GitHub, R for Data Analysis, Writing Reports with R Markdown"
 ---
 

@@ -68,7 +68,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endif %}
 
 <h2 id="general">Registration</h2>
-<a href="https://forms.gle/6m6a5LkQ6bqDopy69">Registration Link</a> You will need to sign in to your Google account to view the registration form.
+<a href="https://forms.gle/1CmRvU4dmPS4sJyPA">Registration Link</a> You will need to sign in to your Google account to view the registration form.
 
 <h2 id="general">General Information</h2>
 
